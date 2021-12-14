@@ -1,5 +1,5 @@
 # spring-boot-weblogic-example
-An example spring-boot application ready to be deployed in weblogic (tested in 12c).
+Um exemplo de aplicativo de inicialização rápida pronto para ser implantado no weblogic (testado em 12c).
 
 This is a very minimalistic application, but it already has some basics:
 - xsd file to define contract
