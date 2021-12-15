@@ -1,7 +1,7 @@
 # spring-boot-weblogic-example
 Um exemplo de aplicativo de inicialização rápida pronto para ser implantado no weblogic (testado em 12c).
 
-This is a very minimalistic application, but it already has some basics:
+Este é um aplicativo bastante minimalista, mas já possui alguns princípios básicos:
 - xsd file to define contract
 - mock service providing soap endpoint, utilizing generated classes from xsd
 - spring-boot and maven based build
