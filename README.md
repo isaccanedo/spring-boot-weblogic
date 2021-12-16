@@ -3,7 +3,7 @@ Um exemplo de aplicativo de inicialização rápida pronto para ser implantado n
 
 Este é um aplicativo bastante minimalista, mas já possui alguns princípios básicos:
 - xsd file to define contract
-- mock service providing soap endpoint, utilizing generated classes from xsd
+- serviço simulado que fornece endpoint de soap, utilizando classes geradas de xsd
 - spring-boot and maven based build
 
 **How to use:**
