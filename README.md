@@ -10,7 +10,7 @@ Este é um aplicativo bastante minimalista, mas já possui alguns princípios b�
 
 1) Execute **mvn clean package**
 2) Implantar resultando **.war** arquivo no weblogic
-3) Estás pronto! Você já pode **POST** request.xml to **http://localhost:7001/mockservice** (provided you have a running weblogic instance locally)
+3) Estás pronto! Você já pode enviar um **POST** request.xml para **http://localhost:7001/mockservice** (desde que você tenha uma instância do weblogic em execução localmente)
 
 ![alt text](https://github.com/isaccanedo/spring-boot-weblogic/blob/master/weblogic.png "Deployed into weblogic")
 
