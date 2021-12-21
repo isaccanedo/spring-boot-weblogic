@@ -14,7 +14,7 @@ Este é um aplicativo bastante minimalista, mas já possui alguns princípios b�
 
 ![alt text](https://github.com/isaccanedo/spring-boot-weblogic/blob/master/weblogic.png "Deployed into weblogic")
 
-**POST-ing from command line (requires curl)**
+**POST-ing da linha de comando (requires curl)**
 
 ```
 [gyuszi@gyuszidev spring-boot-weblogic-example]$ curl -X POST -H "Content-Type: text/xml" --data-binary @request.xml http://localhost:7001/mockservice
