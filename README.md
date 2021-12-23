@@ -43,5 +43,5 @@ The heart of our mini appliction is this soap endpoint.
     }
 ```
 
-Observe que este aplicativo não usa nenhum Java EE/EJB API. It does not use JAX-WS, but instead Spring-WS.
+Observe que este aplicativo não usa nenhum Java EE/EJB API. Não usa JAX-WS, mas ao invés Spring-WS.
 Weblogic will not list anything if you open the detail of your deployment in the web console (REST/WEB services tab will be empty)
